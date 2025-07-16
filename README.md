@@ -1,5 +1,5 @@
 # ahs_analysis
-This repository includes the data and necessary code for a working analysis conducted by the Center for Poverty and Inequality at Georgetown Law (GCPI) examing housing outcomes for renter-occupied units in select metropolitan areas between 2015 and 2023. Contact Zach McRae with any questions at zwm6@georgetown.edu
+This repository includes the data and necessary code for a working analysis conducted by the Center for Poverty and Inequality at Georgetown Law (GCPI) that examines housing outcomes for renter-occupied units in select metropolitan areas between 2015 and 2023. Contact Zach McRae with any questions at zwm6@georgetown.edu
 
 ## The current analysis examines:
 - Cost-motivated exits and entries in the metropolitan area
