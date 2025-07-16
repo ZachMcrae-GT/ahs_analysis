@@ -9,7 +9,6 @@ This repository includes the data and necessary code for a working analysis cond
 
 ## Structure
 - `notebooks/`: Jupyter Notebooks with exploratory and final analysis
-- `data/`: Input data files
 - `outputs/`: Tables, figures, and visualizations for the paper
 
 ## Variables and Data Source
