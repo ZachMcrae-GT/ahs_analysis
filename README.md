@@ -2,10 +2,10 @@
 This repository includes the data and necessary code for a working analysis conducted by the Center for Poverty and Inequality at Georgetown Law (GCPI) that examines housing outcomes for renter-occupied units in select metropolitan areas between 2015 and 2023. Contact Zach McRae with any questions at zwm6@georgetown.edu
 
 ## The current analysis examines:
-- Cost-motivated exits and entries in the metropolitan area
+- Cost-motivated exits and entries in a metropolitan area
 - Net flows by household income and metropolitan area
-- Rent changes for households at different Area Median Income (AMI) levels
-- Changes in renter-occupied household composition.
+- Rent changes for households at different Area Median Income (AMI) levels within select metropolitan areas
+- Changes in renter-occupied household composition within select metropolitan areas
 
 ## Structure
 - `notebooks/`: Jupyter Notebooks with exploratory and final analysis
