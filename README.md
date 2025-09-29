@@ -55,6 +55,7 @@ Using the longitudual data of the American Housing Survey, the analysis will ide
 ## Links to the data are provided below:
 - American Housing Survey (AHS): https://www.census.gov/programs-surveys/ahs/data.html
 - HUD Income Limits: https://www.huduser.gov/portal/datasets/il.html
+- CPI-U Rent of primary residence for metropolitan areas: https://www.bls.gov/eag/home.htm
 
 The full codebook for the American Housing Survey (AHS) can be found here: https://www.census.gov/data-tools/demo/codebook/ahs/ahsdict.html
 
